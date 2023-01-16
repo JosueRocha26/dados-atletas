@@ -16,7 +16,7 @@ Para usar este projeto, você precisará ter o seguinte instalado em sua máquin
 2. Instale as dependências usando `npm install`
 3. Inicie o servidor usando `npm start`
 
-## ⚙Executando os testes
+## Executando os testes
 
 Execute `npm test` para executar os testes unitários.
 
