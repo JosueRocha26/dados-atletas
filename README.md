@@ -36,16 +36,10 @@ Esta aplicação pode ser implantada usando o Heroku.
 - [NPM](https://www.npmjs.com/)
 - [MongoDB](https://www.mongodb.com/)
 
-## ✒️ Autores
-
-- **Josué Rocha** - _Trabalho inicial_ - [Josué Rocha](https://github.com/johndoe)
-
-Veja o [contributors](https://github.com/your/project/contributors) que participou deste projeto.
-
 ## 📄 Licença
 
 Este projeto está licenciado sob a licença MIT - consulte o arquivo [LICENSE.md](LICENSE.md) para obter detalhes.
 
 ## Autor
 
-* **John Doe** - [John Doe](https://github.com/johndoe)
+* **Josué Rocha** - [JosueRocha26](https://github.com/JosueRocha26)
