@@ -1,5 +1,7 @@
 # Atletas
 
+Foi criado uma aplicação capaz de receber informações de um atleta, bem como calcular parâmetros e exibi-los para o usuário
+
 ## 📋 Pré-requisitos
 
 Para usar este projeto, você precisará ter o seguinte instalado em sua máquina:
