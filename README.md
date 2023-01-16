@@ -44,4 +44,4 @@ Este projeto está licenciado sob a licença MIT - consulte o arquivo [LICENSE.m
 
 ## Autor
 
-* **Josué Rocha** - [JosueRocha26](https://github.com/JosueRocha26)
+* **Josué Rocha** - [JosueRocha26](https://github.com/JosueRocha26/dados-atletas.git)
